@@ -1,4 +1,4 @@
-# CMP203-Framework
-Example project for CMP203
+#OpenGl and C++
+Graphics Programming Application. Built using C++ and OpenGL. 
 
-WARNING - Project may need re-targeted to compile. Check the version of the Windows SDK.
+
